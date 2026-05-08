@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Currently working as SMTS <br>AI developement<br>DevOps ( CKA and AWS SAA-C03)<br>Java Development
+SMTS@MODELN <br>AI developement<br>DevOps ( CKA and AWS SAA-C03)<br>Java and SpringBoot Development
 
 
 ## 🌐 Socials:
