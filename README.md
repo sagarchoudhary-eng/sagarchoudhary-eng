@@ -4,7 +4,7 @@ I specialize in bridging the gap between robust backend engineering and modern A
 
 🤖 AI Development: Crafting intelligent features and integrating LLMs into enterprise workflows.
 
-☁️ DevOps & Infrastructure: Certified CKA (Kubernetes) and AWS Solutions Architect Associate.
+☁️ Cloud DevOps & AI Infrastructure: Certified CKA (Kubernetes) and AWS Solutions Architect Associate.
 
 ☕ Core Stack: Expert in Java and the Spring Boot ecosystem.
 
