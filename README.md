@@ -1,10 +1,10 @@
-Hi there, I'm [Your Name] 👋
+Hi there, I'm Sagar Choudhary 👋
 🚀 Senior Member of Technical Staff @ Model N
 I specialize in bridging the gap between robust backend engineering and modern AI-driven solutions. With a strong foundation in Cloud Native architectures, I focus on building scalable, resilient systems.
 
 🤖 AI Development: Crafting intelligent features and integrating LLMs into enterprise workflows.
 
-☁️ DevOps & Infrastructure: #326CE5 Certified CKA (Kubernetes) and AWS Solutions Architect Associate.
+☁️ DevOps & Infrastructure: Certified CKA (Kubernetes) and AWS Solutions Architect Associate.
 
 ☕ Core Stack: Expert in Java and the Spring Boot ecosystem.
 
